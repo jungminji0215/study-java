@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.array;
 
 // 연습 문제
 /*
