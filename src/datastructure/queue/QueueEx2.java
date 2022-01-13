@@ -1,5 +1,5 @@
 // fastcampus - '한번에끝내는코딩테스트369Java편초격차패키지' 연습문제
-package datastructure;
+package datastructure.queue;
 
 import java.util.ArrayList;
 

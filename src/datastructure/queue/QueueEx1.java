@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.queue;
 
 // 두 개의 클래스 같이 사용해야 함
 import java.util.LinkedList;
