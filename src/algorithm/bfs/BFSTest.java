@@ -1,10 +1,10 @@
-package algorithm;
+package algorithm.bfs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class Bfs {
+public class BFSTest {
     public static void main(String[] args) {
         // 1. hashmap 연습
 
