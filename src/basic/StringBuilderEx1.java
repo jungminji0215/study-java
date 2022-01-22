@@ -4,7 +4,7 @@ package basic;
     StringBuilder은 문자열을 만들고 조작하는 데 사용되는 클래스이다.
     String과 차이점은 String은 수정을 할 수 없다.
 
-    buffer : 데이터를 임시로 저장하는 메모리리
+    buffer : 데이터를 임시로 저장하는 메모리
 
    StringBuilder은 StringBuffer이랑 같은데, 한가지 차이점은
     StringBuilder은 동기화가 안 되어 있다.
