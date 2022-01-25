@@ -1,4 +1,4 @@
-package basic.error;
+package basic.exception;
 
 public class ErrorEx1 {
     public static void main(String[] args) {
