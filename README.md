@@ -36,3 +36,13 @@ try{
 - 예외 선언하기 (예외 떠넘기기)
   -  자신을 호출한 대상에게 예외를 알리는 것
   -  메서드 안에서 예외를 처리할지, 예외를 호출한 곳에게 떠넘길지
+
+<br>
+
+### Collection Feamework
+- List는 순서가 있으며 중복 허용한다.
+  - [ArrayList](https://wjdalswl0215.tistory.com/119?category=1020684)
+    - [remove(1), remove(new Integer(1)) 차이 학습](https://wjdalswl0215.tistory.com/129?category=1021955) 
+  - LinkedList 
+- Set은 순서가 없고 데이터의 중복을 허용하지 않는다.
+- Map은 key와 value의 쌍으로 이루어진 데이터의 집합이다. 순서가 없으며, key는 중복을 허용하지 않고, value는 중복을 허용한다.
