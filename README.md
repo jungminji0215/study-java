@@ -44,5 +44,8 @@ try{
   - [ArrayList](https://wjdalswl0215.tistory.com/119?category=1020684)
     - [remove(1), remove(new Integer(1)) 차이 학습](https://wjdalswl0215.tistory.com/129?category=1021955) 
   - LinkedList 
+  - Stack
+  - Queue
+    - 인터페이스여서 이를 구현한 것 사용! (LinkedList)
 - Set은 순서가 없고 데이터의 중복을 허용하지 않는다.
 - Map은 key와 value의 쌍으로 이루어진 데이터의 집합이다. 순서가 없으며, key는 중복을 허용하지 않고, value는 중복을 허용한다.
