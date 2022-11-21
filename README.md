@@ -78,3 +78,10 @@ try{
 ### Generics
 제네릭스는 컴파일 시에 타입을 체크해 주는 기능이다.
 - 타입 체크와 형 변환을 생략할 수 있다.
+
+<br>
+
+### Optional 
+java.util.Optional<T> 클래스
+
+NullPointerException를 회피할 수 있다.
