@@ -83,5 +83,5 @@ try{
 
 ### Optional 
 java.util.Optional<T> 클래스
-
-NullPointerException를 회피할 수 있다.
+- NullPointerException를 회피할 수 있다.
+- null 이 올 수 있는 값을 감사는 Wrapper 클래스이다.
